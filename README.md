@@ -60,4 +60,4 @@ GitSiphon attempts two methods:
 
 ## Disclaimer
 
-**Use at your own risk!** Downloading proprietary code may be illegal. This tool is intended for security testing and CTF challenges only.
+**Use at your own risk!** Downloading proprietary code may be illegal. This tool is intended for security testing only.
