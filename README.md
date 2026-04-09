@@ -5,8 +5,8 @@ A high-performance async git repository dumper.
 
 ## Features
 
-- **Async parallel downloads** - Uses `aiohttp` for concurrent requests (50+ simultaneous)
-- **Rich terminal output** - Progress bars and logs
+- **Async downloads** - Uses `aiohttp` for concurrent requests (50+ simultaneous)
+- **Terminal output** - Progress bars and logs
 - **Smart retry logic** - Automatic retry with backoff
 - **Two dumping modes**:
   - Fast path: Directory listing available (uses wget-style recursive download)
