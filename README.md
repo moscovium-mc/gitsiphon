@@ -1,6 +1,6 @@
 # GitSiphon
 
-A high-performance async git repository dumper - **1000x faster** than the original git-dumper.
+A high-performance async git repository dumper.
 
 ## Features
 
